@@ -20,6 +20,7 @@
 		<Item Name="GetElementFromQueue.vi" Type="VI" URL="../GetElementFromQueue.vi"/>
 		<Item Name="Graph.vi" Type="VI" URL="../Graph.vi"/>
 		<Item Name="GraphCom.vi" Type="VI" URL="../GraphCom.vi"/>
+		<Item Name="InsertDataIntoQueue_ProjectBase.vi" Type="VI" URL="../InsertDataIntoQueue_ProjectBase.vi"/>
 		<Item Name="MessageFormat1.ctl" Type="VI" URL="../MessageFormat1.ctl"/>
 		<Item Name="ProducerStates_ProjectBase.ctl" Type="VI" URL="../ProducerStates_ProjectBase.ctl"/>
 		<Item Name="Project_Base.vi" Type="VI" URL="../Project_Base.vi"/>
