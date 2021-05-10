@@ -17,11 +17,13 @@
 		<Item Name="Connection Check.vi" Type="VI" URL="../Connection Check.vi"/>
 		<Item Name="ConsumerStates_ProjectBase.ctl" Type="VI" URL="../ConsumerStates_ProjectBase.ctl"/>
 		<Item Name="Error Handler.vi" Type="VI" URL="../Error Handler.vi"/>
+		<Item Name="GetElementFromQueue.vi" Type="VI" URL="../GetElementFromQueue.vi"/>
 		<Item Name="Graph.vi" Type="VI" URL="../Graph.vi"/>
 		<Item Name="GraphCom.vi" Type="VI" URL="../GraphCom.vi"/>
 		<Item Name="MessageFormat1.ctl" Type="VI" URL="../MessageFormat1.ctl"/>
 		<Item Name="ProducerStates_ProjectBase.ctl" Type="VI" URL="../ProducerStates_ProjectBase.ctl"/>
 		<Item Name="Project_Base.vi" Type="VI" URL="../Project_Base.vi"/>
+		<Item Name="QueueCluster_ProjectBase.ctl" Type="VI" URL="../QueueCluster_ProjectBase.ctl"/>
 		<Item Name="QueueFormat.ctl" Type="VI" URL="../QueueFormat.ctl"/>
 		<Item Name="WriteConsumerState.vi" Type="VI" URL="../WriteConsumerState.vi"/>
 		<Item Name="WriteToQueue2.vi" Type="VI" URL="../WriteToQueue2.vi"/>
